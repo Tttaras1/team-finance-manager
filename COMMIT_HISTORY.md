@@ -22,20 +22,15 @@
 
 Git records Taras under two email aliases; those entries are grouped together here.
 
-## dasha643 — 2 коміти
-
-| Хеш | Дата | Повідомлення |
-|---|---|---|
-| `e6b8fd7` | 2026-11-05 | Merge pull request #1 from Tttaras1/feature/statistics |
-| `02fea8b` | 2026-11-05 | Merge pull request #2 from Tttaras1/feature/filter-delete |
-
-## unknown — 4 коміти
-
-У Git цих комітів не вказане ім’я автора; для них збережено мітку `unknown`.
+## dasha643 — 6 комітів
 
 | Хеш | Дата | Повідомлення |
 |---|---|---|
 | `efeaa50` | 2026-11-05 | Add financial statistics |
 | `4326308` | 2026-11-05 | Add delete anf filter functions |
 | `689967a` | 2026-11-05 | Add details |
+| `e6b8fd7` | 2026-11-05 | Merge pull request #1 from Tttaras1/feature/statistics |
+| `02fea8b` | 2026-11-05 | Merge pull request #2 from Tttaras1/feature/filter-delete |
 | `9ec3f57` | 2026-11-05 | Update README.md |
+
+Чотири коміти, які Git записав із автором `unknown` (`efeaa50`, `4326308`, `689967a`, `9ec3f57`), атрибутовано dasha643.
