@@ -1,1 +1,1 @@
-# team-finance-manager
+# Financial Tracker Application
